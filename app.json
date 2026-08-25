@@ -37,6 +37,9 @@
       "eas": {
         "projectId": "tradematch-app-build-id"
       }
-    }
+    },
+    "plugins": [
+      "react-native-nfc-manager"
+    ]
   }
 }
